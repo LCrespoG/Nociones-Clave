@@ -15,6 +15,7 @@ public:
     int getEdad();
     void setGenero(const std::string &genero);
     std::string getGenero();
+    void mostrarDetalles();
 };
 
 #endif

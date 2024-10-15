@@ -1,9 +1,15 @@
 # ninja log v6
-7	375	7506893023831791	CMakeFiles/Nociones-Clave.dir/Ejercicio_2/main.cpp.obj	fac220bc9a4b741f
-359	454	7506901049413499	Nociones-Clave2.exe	57dbec1fd9c5be5b
-4	382	7507137880318390	CMakeFiles/Nociones-Clave.dir/Ejercicio_1/main.cpp.obj	e293b0aba2869099
-383	476	7507137884097072	Nociones-Clave.exe	a9f78384e1129bfd
-1	225	7507180804865130	build.ninja	88286834d69d7085
-6	419	7507108123664683	CMakeFiles/Nociones-Clave.dir/Ejercicio_1/Persona.cpp.obj	986bdd523b3b196e
-5	358	7506901045879229	CMakeFiles/Nociones-Clave2.dir/Ejercicio_2/main.cpp.obj	e59dc26d045c8c61
-9	517	7507129562932008	CMakeFiles/Nociones-Clave.dir/Ejercicio_1/Estudiante.cpp.obj	fd828b7549336db
+17	101	7507353249824220	CMakeFiles/Nociones-Clave2.dir/Ejercicio_2/Nuevo.cpp.obj	548ad2a9fb9cb7a1
+11	2048	7507341781476107	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	548dd70546ecf992
+586	672	7507383268529355	Nociones-Clave2.exe	daf59302951cb8f1
+6	83	7507370261892234	CMakeFiles/Nociones-Clave2.dir/Ejercicio_2/funciones.cpp.obj	913bf250cd4f905
+12	411	7507373003154195	CMakeFiles/Nociones-Clave2.dir/Ejercicio_2/Matematicas.cpp.obj	ba8673fedbd461d8
+6	585	7507383262747569	CMakeFiles/Nociones-Clave2.dir/Ejercicio_2/main.cpp.obj	42fe0c2da1e0406
+4	3031	7507341781398353	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	a73d35c60b721ce5
+3031	3732	7507341811671928	_deps/fmt-build/libfmtd.a	8fe6cb8b4a74ae44
+3	838	7507386695949886	build.ninja	88286834d69d7085
+6	329	7507375323155689	CMakeFiles/Matematicas.dir/Ejercicio_2/Matematicas.cpp.obj	559c4f723d0febe2
+329	403	7507375326389605	libMatematicas.a	f649f960a3ffdb8a
+11	357	7507366838318660	CMakeFiles/Nociones-Clave.dir/Ejercicio_1/Persona.cpp.obj	986bdd523b3b196e
+14	422	7507366838340285	CMakeFiles/Nociones-Clave.dir/Ejercicio_1/Estudiante.cpp.obj	fd828b7549336db
+8	445	7507366838278671	CMakeFiles/Nociones-Clave.dir/Ejercicio_1/main.cpp.obj	e293b0aba2869099
