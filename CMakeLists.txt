@@ -1,12 +1,12 @@
 cmake_minimum_required(VERSION 3.29)
-project(Tema_1)
+project(Nociones-Clave)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Tema_1 Colecci-n-de-Ejercicios-para-Nociones-Clave/main.cpp
-        Colecci-n-de-Ejercicios-para-Nociones-Clave/Persona.cpp
-        Colecci-n-de-Ejercicios-para-Nociones-Clave/Persona.h
-        Colecci-n-de-Ejercicios-para-Nociones-Clave/Estudiante.cpp
-        "Colecci-n-de-Ejercicios-para-Nociones-Clave/Estudiante.h"
-        Nociones-Clave/Estudiante.cpp
+add_executable(Nociones-Clave
+        "Ejercicio 1/main.cpp"
+)
+
+add_executable(Nociones-Clave2
+        "Ejercicio 2/main.cpp"
 )

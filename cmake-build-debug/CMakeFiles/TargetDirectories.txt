@@ -1,0 +1,4 @@
+C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/CMakeFiles/Nociones-Clave.dir
+C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/CMakeFiles/Nociones-Clave2.dir
+C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/CMakeFiles/rebuild_cache.dir
