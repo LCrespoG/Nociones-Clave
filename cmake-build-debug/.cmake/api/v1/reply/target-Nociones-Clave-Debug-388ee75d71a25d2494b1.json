@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Nociones-Clave2.exe"
+			"path" : "Nociones-Clave.exe"
 		},
 		{
-			"path" : "Nociones-Clave2.pdb"
+			"path" : "Nociones-Clave.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 10,
+				"line" : 6,
 				"parent" : 0
 			}
 		]
@@ -52,11 +52,13 @@
 			},
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1,
+				2
 			]
 		}
 	],
-	"id" : "Nociones-Clave2::@6890427a1f51a3e7e1df",
+	"id" : "Nociones-Clave::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +78,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "Nociones-Clave2",
-	"nameOnDisk" : "Nociones-Clave2.exe",
+	"name" : "Nociones-Clave",
+	"nameOnDisk" : "Nociones-Clave.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -89,7 +91,9 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1,
+				2
 			]
 		}
 	],
@@ -98,7 +102,19 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Ejercicio 2/main.cpp",
+			"path" : "Ejercicio 1/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Ejercicio 1/Persona.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Ejercicio 1/Estudiante.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

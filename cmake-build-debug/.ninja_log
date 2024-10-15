@@ -1,7 +1,9 @@
 # ninja log v6
 7	375	7506893023831791	CMakeFiles/Nociones-Clave.dir/Ejercicio_2/main.cpp.obj	fac220bc9a4b741f
 359	454	7506901049413499	Nociones-Clave2.exe	57dbec1fd9c5be5b
-5	382	7506892867946605	CMakeFiles/Nociones-Clave.dir/Ejercicio_1/main.cpp.obj	e293b0aba2869099
-10	133	7506895537279309	Nociones-Clave.exe	47a2da03f120035
-1	225	7506908093937897	build.ninja	88286834d69d7085
+4	382	7507137880318390	CMakeFiles/Nociones-Clave.dir/Ejercicio_1/main.cpp.obj	e293b0aba2869099
+383	476	7507137884097072	Nociones-Clave.exe	a9f78384e1129bfd
+1	225	7507180804865130	build.ninja	88286834d69d7085
+6	419	7507108123664683	CMakeFiles/Nociones-Clave.dir/Ejercicio_1/Persona.cpp.obj	986bdd523b3b196e
 5	358	7506901045879229	CMakeFiles/Nociones-Clave2.dir/Ejercicio_2/main.cpp.obj	e59dc26d045c8c61
+9	517	7507129562932008	CMakeFiles/Nociones-Clave.dir/Ejercicio_1/Estudiante.cpp.obj	fd828b7549336db

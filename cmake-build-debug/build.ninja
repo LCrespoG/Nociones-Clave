@@ -55,6 +55,18 @@ build CMakeFiles/Nociones-Clave.dir/Ejercicio_1/main.cpp.obj: CXX_COMPILER__Noci
   OBJECT_DIR = CMakeFiles\Nociones-Clave.dir
   OBJECT_FILE_DIR = CMakeFiles\Nociones-Clave.dir\Ejercicio_1
 
+build CMakeFiles/Nociones-Clave.dir/Ejercicio_1/Persona.cpp.obj: CXX_COMPILER__Nociones-Clave_unscanned_Debug C$:/Users/LCGpe/OneDrive/UAX/Primero/Programacion$ 1/Tema$ 1/Nociones-Clave/Ejercicio$ 1/Persona.cpp || cmake_object_order_depends_target_Nociones-Clave
+  DEP_FILE = CMakeFiles\Nociones-Clave.dir\Ejercicio_1\Persona.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Nociones-Clave.dir
+  OBJECT_FILE_DIR = CMakeFiles\Nociones-Clave.dir\Ejercicio_1
+
+build CMakeFiles/Nociones-Clave.dir/Ejercicio_1/Estudiante.cpp.obj: CXX_COMPILER__Nociones-Clave_unscanned_Debug C$:/Users/LCGpe/OneDrive/UAX/Primero/Programacion$ 1/Tema$ 1/Nociones-Clave/Ejercicio$ 1/Estudiante.cpp || cmake_object_order_depends_target_Nociones-Clave
+  DEP_FILE = CMakeFiles\Nociones-Clave.dir\Ejercicio_1\Estudiante.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Nociones-Clave.dir
+  OBJECT_FILE_DIR = CMakeFiles\Nociones-Clave.dir\Ejercicio_1
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Nociones-Clave
@@ -63,7 +75,7 @@ build CMakeFiles/Nociones-Clave.dir/Ejercicio_1/main.cpp.obj: CXX_COMPILER__Noci
 #############################################
 # Link the executable Nociones-Clave.exe
 
-build Nociones-Clave.exe: CXX_EXECUTABLE_LINKER__Nociones-Clave_Debug CMakeFiles/Nociones-Clave.dir/Ejercicio_1/main.cpp.obj
+build Nociones-Clave.exe: CXX_EXECUTABLE_LINKER__Nociones-Clave_Debug CMakeFiles/Nociones-Clave.dir/Ejercicio_1/main.cpp.obj CMakeFiles/Nociones-Clave.dir/Ejercicio_1/Persona.cpp.obj CMakeFiles/Nociones-Clave.dir/Ejercicio_1/Estudiante.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Nociones-Clave.dir
