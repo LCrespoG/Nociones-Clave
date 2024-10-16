@@ -6,4 +6,4 @@ namespace matematicas {
     int division(int a, int b);
 }
 
-#endif // MATEMATICAS_H
+#endif

@@ -6,17 +6,17 @@ set(CMAKE_CXX_STANDARD 20)
 
 # Primer ejecutable
 add_executable(Nociones-Clave
-        "Ejercicio 1/main.cpp"
-        "Ejercicio 1/Persona.cpp"
-        "Ejercicio 1/Estudiante.cpp"
+        "Ejercicio 1 y 2/main.cpp"
+        "Ejercicio 1 y 2/Persona.cpp"
+        "Ejercicio 1 y 2/Estudiante.cpp"
 )
 
 # Segundo ejecutable
 add_executable(Nociones-Clave2
-        "Ejercicio 2/main.cpp"
-        "Ejercicio 2/Nuevo.cpp"
-        "Ejercicio 2/Matematicas.cpp"
-        "Ejercicio 2/funciones.cpp"
+        "Ejercicio 3, 4 y 5/main.cpp"
+        "Ejercicio 3, 4 y 5/Nuevo.cpp"
+        "Ejercicio 3, 4 y 5/Matematicas.cpp"
+        "Ejercicio 3, 4 y 5/funciones.cpp"
 )
 
 # Libreria fmt
@@ -32,6 +32,6 @@ FetchContent_MakeAvailable(fmt)
 target_link_libraries(Nociones-Clave2 PRIVATE fmt::fmt)
 
 # Biblioteca estaticas y dinamicas
-add_library(Matematicas STATIC "Ejercicio 2/Matematicas.cpp")
+add_library(Matematicas STATIC "Ejercicio 3, 4 y 5/Matematicas.cpp")
 
 target_link_libraries(Nociones-Clave2 PRIVATE Matematicas)

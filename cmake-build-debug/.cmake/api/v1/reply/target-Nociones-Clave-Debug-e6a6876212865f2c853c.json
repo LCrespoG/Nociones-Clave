@@ -102,19 +102,19 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Ejercicio 1/main.cpp",
+			"path" : "Ejercicio 1 y 2/main.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Ejercicio 1/Persona.cpp",
+			"path" : "Ejercicio 1 y 2/Persona.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Ejercicio 1/Estudiante.cpp",
+			"path" : "Ejercicio 1 y 2/Estudiante.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
