@@ -2,27 +2,11 @@
 2	77	7507341705503592	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	8dc2c095cd64565a
 2	77	7507341705503592	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	8dc2c095cd64565a
 78	5214	7507341756888931	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	5fd517bc54a19ce0
-2	149	7507676228623112	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	f86d5a16ecacd644
-2	149	7507676228623112	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	f86d5a16ecacd644
-149	210	7507676230625982	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	70bb961c76d18987
-149	210	7507676230625982	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	70bb961c76d18987
-78	5214	7507341756888931	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	5fd517bc54a19ce0
-210	274	7507676231270230	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	501196aa7045f650
-210	274	7507676231270230	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	501196aa7045f650
-274	337	7507676231900384	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	a7360d9e2722e554
-274	337	7507676231900384	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	a7360d9e2722e554
-338	402	7507676232555813	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	6cfe8878a85fcce7
-338	402	7507676232555813	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	6cfe8878a85fcce7
-402	464	7507676233177848	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	4d62ca9ff7b43f12
-402	464	7507676233177848	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	4d62ca9ff7b43f12
-464	550	7507676234032235	CMakeFiles/fmt-populate-complete	c8b3a6497e38807e
-464	550	7507676234032235	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	c8b3a6497e38807e
-464	550	7507676234032235	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	c8b3a6497e38807e
-464	550	7507676234032235	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	c8b3a6497e38807e
-2	115	7507684477202309	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	f86d5a16ecacd644
 2	115	7507684477202309	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	f86d5a16ecacd644
+2	115	7507684477202309	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	f86d5a16ecacd644
 115	160	7507684478733047	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	70bb961c76d18987
 115	160	7507684478733047	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	70bb961c76d18987
+78	5214	7507341756888931	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	5fd517bc54a19ce0
 160	203	7507684479166344	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	501196aa7045f650
 160	203	7507684479166344	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	501196aa7045f650
 203	253	7507684479663333	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	a7360d9e2722e554
@@ -35,3 +19,19 @@
 341	411	7507684481243284	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	c8b3a6497e38807e
 341	411	7507684481243284	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	c8b3a6497e38807e
 341	411	7507684481243284	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	c8b3a6497e38807e
+3	204	7507759068332657	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	f86d5a16ecacd644
+3	204	7507759068332657	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	f86d5a16ecacd644
+204	303	7507759071242277	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	70bb961c76d18987
+204	303	7507759071242277	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	70bb961c76d18987
+304	380	7507759072029013	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	501196aa7045f650
+304	380	7507759072029013	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	501196aa7045f650
+380	454	7507759072772583	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	a7360d9e2722e554
+380	454	7507759072772583	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	a7360d9e2722e554
+454	517	7507759073399565	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	6cfe8878a85fcce7
+454	517	7507759073399565	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	6cfe8878a85fcce7
+517	588	7507759074112091	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	4d62ca9ff7b43f12
+517	588	7507759074112091	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	4d62ca9ff7b43f12
+588	705	7507759075289855	CMakeFiles/fmt-populate-complete	c8b3a6497e38807e
+588	705	7507759075289855	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	c8b3a6497e38807e
+588	705	7507759075289855	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	c8b3a6497e38807e
+588	705	7507759075289855	C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 1/Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	c8b3a6497e38807e
